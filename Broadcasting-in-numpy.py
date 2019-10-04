@@ -19,7 +19,7 @@
 # In[1]:
 
 
-
+import numpy as np 
 a=np.arange(3)
 print(a)
 #here numpy extende b into 1*3 from ([1,1,1])
